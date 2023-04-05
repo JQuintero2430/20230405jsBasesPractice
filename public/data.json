@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Witcher",
+    "year": "2014",
+    "genre": "RPG",
+    "stock": "100"
+  },
+  {
+    "name": "The Legacy",
+    "year": "2015",
+    "genre": "Action",
+    "stock": "10"
+  },
+  {
+    "name": "The last of us",
+    "year": "2016",
+    "genre": "Action",
+    "stock": "0"
+  }
+]
